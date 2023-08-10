@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Accessory()
+comment0.text=\r\n\ default\ Constructor\ for\ objects\ of\ class\ Tool\ with\ no\ parameters\r\n\r\n
+comment1.params=
+comment1.target=boolean\ getIsRecyclable()
+comment1.text=\r\n\ Accessor\ method\ for\ value\ stored\ in\ the\ private\ field\ isRecycleable\r\n\ \r\n\ @return\ isRecycleable\ -\ <code>boolean</code>\ whether\ the\ accessory\ is\ recycleable\r\n
+comment2.params=isRecyclable
+comment2.target=void\ setIsRecyclable(boolean)
+comment2.text=\r\n\ mutator\ method\ to\ set\ isRecycleable\ for\ Accessory\r\n\ \r\n\ @param\ recycleable\ <code>boolean</code>\ isRecycleable\ for\ the\ Accessory\ is\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ \r\n\ This\ section\ of\ code\ prints\ out\ all\ the\ information\ that\ the\ variables\ currently\ hold\r\n\ the\ user\ is\ able\ to\ access\ this\ through\ the\ method\ printDetails()\r\n
+comment4.params=lineScanner
+comment4.target=void\ readData(java.util.Scanner)
+numComments=5

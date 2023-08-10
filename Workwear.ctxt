@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Workwear()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Workwear\r\n
+comment1.params=manufacturingStandard
+comment1.target=void\ SetManufacturingStandard(java.lang.String)
+comment1.text=\r\n\ mutator\ method\ to\ set\ manufacturingStandard\ for\ Workwear\ accessory\r\n\ \r\n\ @param\ newStandard\ <code>String</code>\ manufacturingStandard\ for\ the\ Workwear\ accessory\ is\r\n
+comment2.params=colour
+comment2.target=void\ setColour(java.lang.String)
+comment2.text=\r\n\ mutator\ method\ to\ set\ colour\ for\ Workwear\ accessory\r\n\ \r\n\ @param\ addColour\ <code>String</code>\ colour\ for\ the\ Workwear\ accessory\ is\r\n
+comment3.params=size
+comment3.target=void\ setSize(java.lang.String)
+comment3.text=\r\n\ mutator\ method\ to\ set\ size\ for\ Workwear\ accessory\r\n\ \r\n\ @param\ addSize\ <code>String</code>\ size\ for\ the\ Workwear\ accessory\ is\r\n
+comment4.params=
+comment4.target=java.lang.String\ getManufacturingStandard()
+comment4.text=\r\n\ Accessor\ method\ for\ value\ stored\ in\ the\ private\ field\ manufacturingStandard\r\n\ \r\n\ @return\ manufacturingStandard\ -\ <code>String</code>\ the\ manufacturingStandard\ for\ the\ Workwear\ accessory\ is\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getColour()
+comment5.text=\r\n\ Accessor\ method\ for\ value\ stored\ in\ the\ private\ field\ colour\r\n\ @return\ colour\ -\ <code>String</code>\ the\ colour\ for\ the\ Workwear\ accessory\ is\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ getSize()
+comment6.text=\r\n\ Accessor\ method\ for\ value\ stored\ in\ the\ private\ field\ size\r\n\ @return\ size\ -\ <code>String</code>\ the\ size\ for\ the\ Workwear\ accessory\ is\ \r\n
+comment7.params=
+comment7.target=void\ printDetails()
+comment8.params=lineScanner
+comment8.target=void\ readData(java.util.Scanner)
+numComments=9

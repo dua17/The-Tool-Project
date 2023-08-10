@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HandTool()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ HandTool\r\n
+comment1.params=
+comment1.target=boolean\ getSharpenable()
+comment1.text=\r\n\ Accessor\ method\ for\ value\ stored\ in\ the\ private\ field\ sharpenable\r\n\ \r\n\ @return\ sharpenable\ -\ <code>boolean</code>\ whether\ that\ tool\ is\ able\ to\ be\ sharpened\ \r\n
+comment2.params=sharpenable
+comment2.target=void\ setSharpenable(boolean)
+comment2.text=\r\n\ mutator\ method\ to\ set\ sharpenable\ for\ HandTool\r\n\ \r\n\ @param\ isSharpenable\ <code>boolean</code>\ sharpenable\ for\ the\ HandTool\ is\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment4.params=lineScanner
+comment4.target=void\ readData(java.util.Scanner)
+numComments=5

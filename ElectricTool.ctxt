@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ElectricTool()
+comment0.text=\r\n\ default\ Constructor\ for\ objects\ of\ class\ ElectricTool\ with\ no\ parameters\r\n\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPower()
+comment1.text=\r\n\ Accessor\ method\ for\ value\ stored\ in\ the\ private\ field\ power\r\n\ \r\n\ @return\ power\ -\ <code>String</code>\ the\ power\ of\ the\ electric\ tool\ is\r\n
+comment2.params=
+comment2.target=boolean\ getRechargeable()
+comment2.text=\r\n\ Accessor\ method\ for\ value\ stored\ in\ the\ private\ field\ rechargeable\r\n\ \r\n\ @return\ rechargeable\ -\ <code>boolean</code>\ whether\ that\ tool\ is\ able\ to\ be\ sharpened\ \r\n
+comment3.params=power
+comment3.target=void\ setPower(java.lang.String)
+comment3.text=\r\n\ mutator\ method\ to\ set\ power\ for\ ElectricTool\r\n\ \r\n\ @param\ newPower\ <code>boolean</code>\ power\ for\ the\ ElectricTool\ is\r\n
+comment4.params=rechargeable
+comment4.target=void\ setRechargeable(boolean)
+comment4.text=\r\n\ mutator\ method\ to\ set\ rechargeable\ for\ ElectricTool\r\n\ \r\n\ @param\ isRechargeable\ <code>boolean</code>\ rechargeable\ for\ the\ ElectricTool\ is\r\n
+comment5.params=
+comment5.target=void\ printDetails()
+comment6.params=lineScanner
+comment6.target=void\ readData(java.util.Scanner)
+numComments=7

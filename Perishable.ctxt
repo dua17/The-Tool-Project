@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Perishable()
+comment0.text=\r\n\ default\ Constructor\ for\ objects\ of\ class\ ElectricTool\ with\ no\ parameters\r\n\r\n
+comment1.params=isIrritant
+comment1.target=void\ setIsIrritant(boolean)
+comment2.params=useByDate
+comment2.target=void\ setUseByDate(java.lang.String)
+comment3.params=volume
+comment3.target=void\ setVolume(java.lang.String)
+comment4.params=
+comment4.target=boolean\ getIsIrritant()
+comment4.text=\r\n\ Accessor\ method\ to\ return\ the\ value\ stored\ in\ the\ private\ field\ isIrritant\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getUseByDate()
+comment5.text=\r\n\ Accessor\ method\ to\ return\ the\ value\ stored\ in\ the\ private\ field\ weight\r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ getVolume()
+comment6.text=\r\n\ Accessor\ method\ to\ return\ the\ value\ stored\ in\ the\ private\ field\ weight\r\n\ \r\n
+comment7.params=
+comment7.target=void\ printDetails()
+comment8.params=lineScanner
+comment8.target=void\ readData(java.util.Scanner)
+numComments=9
